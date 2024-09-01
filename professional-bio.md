@@ -6,14 +6,14 @@
 
 ## Experience
 * Programmer/Help Desk Technician, UC Office of Research Co-op (4 semesters)
-- Solved a variety of IT issues 
-- Assisted in developing a web application using technologies such as Vue and Python. 
-- Served as administrator of new software being used in the office. 
+    - Solved a variety of IT issues 
+    - Assisted in developing a web application using technologies such as Vue and Python. 
+    - Served as administrator of new software being used in the office. 
 
 * Programmer/IT Consultant, System Support Associates LLC (2022-Current)
-- Managed Windows server and network environment for many clients
-- Develop, maintain, and update client software
-- Resolve or consult on any IT related issues
+    - Managed Windows server and network environment for many clients
+    - Develop, maintain, and update client software
+    - Resolve or consult on any IT related issues
 
 ## Skills and Expertise
 * Operating Systems: Windows 
