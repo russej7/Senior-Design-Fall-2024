@@ -11,7 +11,7 @@
     - Served as administrator of new software being used in the office. 
 
 * Programmer/IT Consultant, System Support Associates LLC (2022-Current)
-    - Managed Windows server and network environment for many clients
+    - Manage Windows server and network environment for many clients
     - Develop, maintain, and update client software
     - Resolve or consult on any IT related issues
 
