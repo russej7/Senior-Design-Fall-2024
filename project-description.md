@@ -1,7 +1,7 @@
 # Project Description 
 
-##Jason Russell
-##russej7@mail.uc.edu
+## Jason Russell
+## russej7@mail.uc.edu
 
 ## Project Topic Area 
 
