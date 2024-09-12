@@ -1,5 +1,3 @@
-## Senior Design I 	
-## Jason Russell
 ## Individual Capstone Assessment
 
 For my senior design project, I will be building a web application to keep track of citations ordered by a local municipality. I chose this as my project because it directly correlates to my current job as a technical consultant, and it will evaluate all the skills I have learned up to this point. As a technical consultant, I work with several local municipalities to monitor and improve their workflow anyway possible. This project gives me the opportunity to further prove to my employer that I am a worthy investment, while also expanding on the relationship that I have with our clients. Ideally, this project will provide value to our current clients and any potential clients. I see this as an opportunity to become an even better programmer.
