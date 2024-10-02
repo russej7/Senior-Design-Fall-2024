@@ -19,3 +19,8 @@ Create tests, and edit the application based on the test results.
 ### 5. Deploy application 
 
 Deploy the application and give access to more users. 
+
+
+# Timeline & Effort Matrix 
+
+![image](https://github.com/user-attachments/assets/47337594-5920-4f88-b8f7-3df8243c08ce)
