@@ -1,6 +1,4 @@
-## CS5001 
 ## Project Constraints Essay
-## Jason Russell
 
 As far as major constraints for my project, I feel the only three that apply specifically are professional, security, and social. Since the project could potentially be used by clients of my current company, the result directly correlates with my professional development. It could also impact how clients view me professionally. For this reason, I need to ensure the project meets their needs.
 
