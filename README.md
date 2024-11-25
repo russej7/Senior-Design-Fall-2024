@@ -2,6 +2,7 @@
 
 Team Members: Jason Russell
 Project Advisor: TBD
+
 Project Abstract: Create a web based application that can be used by a small local government to track parking citations. Users will be able to create, update, and print parking citations. Users will also be able to generate reports for citation data. 
 
 
