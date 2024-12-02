@@ -10,7 +10,7 @@ Project Abstract: Create a web based application that can be used by a small loc
 ## Table of Contents
 
 ### Project Description 
-- [project-description.md](Essays/project-description..md
+- [project-description.md](Essays/project-description.md)
 ### User Stories and Design Diagrams 
 - [user_stories.md](Essays/user_stories.md)
 - [D0](Design_Diagrams/Design_Diagram_D0.png)
