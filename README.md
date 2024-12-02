@@ -25,7 +25,7 @@ Project Abstract: Create a web based application that can be used by a small loc
 ### PPT Slideshow
 - 
 ### Self-Assessment Essays
-- [Individual-Capstone.md](Essays/Individual-Capstone.md)
+- [Individual-Capstone.md](Essays/Invidual-Capstone.md)
 ### Professional Biographies 
 - [professional-bio.md](Essays/professional-bio.md)
 ### Budget
