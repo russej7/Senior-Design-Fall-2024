@@ -23,7 +23,7 @@ Project Abstract: Create a web based application that can be used by a small loc
 ### ABET Concerns Essay
 - [project-constraints.md](Essays/project-constraints.md)
 ### PPT Slideshow
-- 
+- ProjectPresentation.pptx
 ### Self-Assessment Essays
 - [Individual-Capstone.md](Essays/Invidual-Capstone.md)
 ### Professional Biographies 
