@@ -10,7 +10,7 @@ Project Abstract: Create a web based application that can be used by a small loc
 ## Table of Contents
 
 ### Project Description 
--
+- [here](Essays/project-description.md)
 ### User Stories and Design Diagrams 
 - 
 ### Project Tasks and Timeline
