@@ -1,6 +1,6 @@
 # Parking Citation Application - User Manual
 
-1\. ###Accessing the Application
+###1\. ###Accessing the Application
 
 -   Open your web browser and navigate to the application URL.
 
