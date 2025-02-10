@@ -103,7 +103,7 @@ team.
 -   Locate the citation in the table and click "Edit", then click
     "Print" on the bottom right of the page.
 
--   The print preview will open I the print dialogue.
+-   The print preview will open along with the print dialogue.
 
 ### **3. Can I use this application on my mobile device?**
 
