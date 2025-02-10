@@ -85,8 +85,37 @@ Actions:
 
 
 
-
 ### 8\. **Support**
 
 For assistance, contact your system administrator or the development
 team.
+
+
+
+# FAQs
+
+**1. I forgot my password. What should I do?**
+
+-   Contact your system administrator to reset your password.
+
+**2. How do I print a citation?**
+
+-   Locate the citation in the table and click "Edit", then click
+    "Print" on the bottom right of the page.
+
+-   The print preview will open I the print dialogue.
+
+**3. Can I use this application on my mobile device?**
+
+-   Yes, the application is responsive and can be used on mobile
+    devices. However, for the best experience, use a desktop or tablet.
+
+**4. Who should I contact for support?**
+
+-   For technical issues or questions, contact your system administrator
+    or the development team.
+
+**5. What browsers are supported?**
+
+-   The application is compatible with modern browsers like Google
+    Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
