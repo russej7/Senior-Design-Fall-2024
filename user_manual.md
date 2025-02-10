@@ -86,7 +86,7 @@ Actions:
 
 
 
-8\. **Support**
+### 8\. **Support**
 
 For assistance, contact your system administrator or the development
 team.
