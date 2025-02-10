@@ -9,9 +9,9 @@
 
 ### 2\. **Homepage - Citations Table**
 
--   The homepage displays a table of all parking citations
+-   The homepage displays a table of all parking citations.
 
--   From this page you can
+-   From this page you can:
 
     -   Search citations by citation number, license plate number, etc.
 
@@ -25,7 +25,7 @@
 -   To quickly add a citation in the field with less details, click
     "Quick Entry".
 
--   Enter the necessary information
+-   Enter the necessary information.
 
 
 
@@ -38,7 +38,7 @@
 
 -   Click "Print" to print out the citation and save it.
 
--   Click "Save" to save the citation
+-   Click "Save" to save the citation.
 
 
 
@@ -72,16 +72,16 @@ Actions:
 
 ### 6\. **Changing your password**
 
--   Click on your initials on the top right and click "Change Password"
+-   Click on your initials on the top right and click "Change Password".
 
--   Update your password and click "Save"
+-   Update your password and click "Save".
 
 
 
 
 ### 7\. **Logging Out**
 
--   Click on your initials in the top right, and click "Sign-Out"
+-   Click on your initials in the top right, and click "Sign-Out".
 
 
 
