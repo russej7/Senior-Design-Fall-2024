@@ -4,9 +4,8 @@ Parking Citation Application - User Manual
 
 -   Open your web browser and navigate to the application URL.
 
--   ![](./image1.png){width="5.198641732283464in"
-    height="1.5835542432195975in"}Log in using your username and
-    password.
+
+
 
 2\. **Homepage - Citations Table**
 
@@ -18,9 +17,8 @@ Parking Citation Application - User Manual
 
     -   Add a citation using "Quick Entry" or "Admin Entry".
 
-    -   ![](./image2.png){width="7.859981408573928in"
-        height="1.625in"}Edit a citation by clicking "Edit" next to the
-        citation you wish to edit.
+
+
 
 3\. **Adding a New Citation: Quick Entry**
 
@@ -29,9 +27,8 @@ Parking Citation Application - User Manual
 
 -   Enter the necessary information
 
--   ![](./image3.png){width="3.1566907261592303in"
-    height="3.4796522309711286in"}Click "Print" to save the citation and
-    print it out.
+
+
 
 4\. **Adding a New Citation: Admin Entry**
 
@@ -43,9 +40,10 @@ Parking Citation Application - User Manual
 
 -   Click "Save" to save the citation
 
-![](./image4.png){width="7.898909667541557in" height="4.28125in"}
 
-4\. **User Management**
+
+
+5\. **User Management**
 
 -   Navigate to the User Management tab.
 
@@ -69,17 +67,26 @@ Actions:
 
     -   Click Save to update the account.
 
-5\. **Changing your password**
+
+
+
+6\. **Changing your password**
 
 -   Click on your initials on the top right and click "Change Password"
 
 -   Update your password and click "Save"
 
-6\. **Logging Out**
+
+
+
+7\. **Logging Out**
 
 -   Click on your initials in the top right, and click "Sign-Out"
 
-7\. **Support**
+
+
+
+8\. **Support**
 
 For assistance, contact your system administrator or the development
 team.
