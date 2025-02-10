@@ -7,7 +7,7 @@
 
 
 
-2\. **Homepage - Citations Table**
+### 2\. **Homepage - Citations Table**
 
 -   The homepage displays a table of all parking citations
 
@@ -20,7 +20,7 @@
 
 
 
-3\. **Adding a New Citation: Quick Entry**
+### 3\. **Adding a New Citation: Quick Entry**
 
 -   To quickly add a citation in the field with less details, click
     "Quick Entry".
@@ -30,7 +30,7 @@
 
 
 
-4\. **Adding a New Citation: Admin Entry**
+### 4\. **Adding a New Citation: Admin Entry**
 
 -   To add a citation with all the details, click "Admin Entry".
 
@@ -43,7 +43,7 @@
 
 
 
-5\. **User Management**
+### 5\. **User Management**
 
 -   Navigate to the User Management tab.
 
@@ -70,7 +70,7 @@ Actions:
 
 
 
-6\. **Changing your password**
+### 6\. **Changing your password**
 
 -   Click on your initials on the top right and click "Change Password"
 
@@ -79,7 +79,7 @@ Actions:
 
 
 
-7\. **Logging Out**
+### 7\. **Logging Out**
 
 -   Click on your initials in the top right, and click "Sign-Out"
 
