@@ -1,4 +1,4 @@
-Parking Citation Application - User Manual
+# Parking Citation Application - User Manual
 
 1\. **Accessing the Application**
 
