@@ -21,14 +21,14 @@ Project Abstract: Create a web based application that can be used by a small loc
 - [tasklist.md](Essays/tasklist.md)
 - [milestones.md](Essays/milestones.md)
 ### ABET Concerns Essay
-- [project-constraints.md](Essays/project-constraints.md)
+- [project-constraints.md](Essays/project_constraints.md)
 ### PPT Slideshow
 - [Project Presentation](https://mailuc-my.sharepoint.com/:p:/g/personal/russej7_mail_uc_edu/EdUto87qbsJDjODo-rll5YwBv5HZsxzS0MR_TEFViN1pXg)
 ### Self-Assessment Essays
-- [Individual-Capstone.md](Essays/Invidual-Capstone.md)
-- [spring-self-assessment.md](Essays/spring-self-assessment.md)
+- [individual_capstone.md](Essays/invidual_capstone.md)
+- [spring_self_assessment.md](Essays/spring_self_assessment.md)
 ### Professional Biographies 
-- [professional-bio.md](Essays/professional-bio.md)
+- [professional_bio.md](Essays/professional_bio.md)
 ### Budget
 - No expenses for this project 
 ### Appendix
