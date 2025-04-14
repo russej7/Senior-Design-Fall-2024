@@ -1,4 +1,4 @@
-#Spring Self Assessment
+# Spring Self Assessment
 
 This was a solo project so my contribution was 100%. I believe that I did apply and build upon the skills identified in my self-assessment last fall. 
 I created a application that tracks parking citations. The application displays a table, and users can either edit records in the table, add a new record, 
