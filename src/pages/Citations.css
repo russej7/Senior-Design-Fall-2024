@@ -1,0 +1,89 @@
+/* Citations Page Container */
+.citations-page { 
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    /*background-color: #fdfdfd;*/
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    height: 100vh; /* Full viewport height */
+    
+  }
+  
+  
+  .citations-header {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 2rem;
+    color: #2c3e50;
+    font-weight: bold;
+    padding-top: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+
+
+  .action-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .search-bar {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    max-width: 1500px;
+    margin: 0 auto;
+  }
+  
+  .search-bar input {
+    flex: 1;
+    padding: 12px 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+
+  
+  .search-button {
+    padding: 12px 24px;
+    background-color: #2c3e50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100px;
+    text-align: center;
+  }
+  
+  .search-button:hover {
+    background-color: #1a252f;
+  }
+  
+  .add-button {
+    padding: 12px 24px;
+    background-color: #218838;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100px;
+    text-align: center;
+  }
+  
+  .add-button:hover {
+    background-color: #19692c;
+  }
+  
+  
