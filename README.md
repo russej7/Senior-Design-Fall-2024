@@ -1,8 +1,35 @@
-# React + Vite
+# Senior Design Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Team Members: Jason Russell
 
-Currently, two official plugins are available:
+Project Advisor: TBD
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Abstract: Create a web based application that can be used by a small local government to track parking citations. Users will be able to create, update, and print parking citations. Users will also be able to generate reports for citation data. 
+
+
+## Table of Contents
+
+### Project Description 
+- [project_description.md](Essays/project_description.md)
+### User Stories and Design Diagrams 
+- [user_stories.md](Essays/user_stories.md)
+- [D0](Design_Diagrams/Design_Diagram_D0.png)
+- [D1](Design_Diagrams/Design_Diagram_D1.png)
+- [D2](Design_Diagrams/Design_Diagram_D2.png)
+
+### Project Tasks and Timeline
+- [tasklist.md](Essays/tasklist.md)
+- [milestones.md](Essays/milestones.md)
+### ABET Concerns Essay
+- [project_constraints.md](Essays/project_constraints.md)
+### PPT Slideshow
+- [Project Presentation](https://mailuc-my.sharepoint.com/:p:/g/personal/russej7_mail_uc_edu/EdUto87qbsJDjODo-rll5YwBv5HZsxzS0MR_TEFViN1pXg)
+### Self-Assessment Essays
+- [individual_capstone.md](Essays/invidual_capstone.md)
+- [spring_self_assessment.md](Essays/spring_self_assessment.md)
+### Professional Biographies 
+- [professional_bio.md](Essays/professional_bio.md)
+### Budget
+- No expenses for this project 
+### Appendix
+
