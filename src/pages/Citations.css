@@ -55,7 +55,7 @@
   
   .add-button {
     padding: 12px 24px;
-    background-color: #218838;
+    background-color: #27ae60;
     color: white;
     border: none;
     border-radius: 4px;
@@ -63,10 +63,13 @@
     transition: background-color 0.3s;
     width: 100px;
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
   }
   
   .add-button:hover {
-    background-color: #19692c;
+    background-color: #219653;
   }
   
   

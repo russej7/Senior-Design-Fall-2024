@@ -74,13 +74,14 @@ const AddEditCitations = () => {
       <Navbar />
       </div>
       <h2 className="add-edit-citations-header">{id ? 'Edit Citation' : 'Add Citation'}</h2>
+      <div className = "tabs-container">
       <div className="tabs">
-        <button onClick={() => setTab('citation')}>Citation</button>
-        <button onClick={() => setTab('disposition')}>Disposition</button>
-        <button onClick={() => setTab('owner')}>Owner</button>
+        <button className={tab === 'citation' ? 'active' : ''} onClick={() => setTab('citation')}>Citation</button>
+        <button className={tab === 'disposition' ? 'active' : ''} onClick={() => setTab('disposition')}>Disposition</button>
+        <button className={tab === 'owner' ? 'active' : ''} onClick={() => setTab('owner')}>Owner</button>
       </div>
-
-      <form onSubmit={handleSubmit}>
+      </div> 
+      <form className="form-container" onSubmit={handleSubmit}>
         {tab === 'citation' && (
           <div>
             <label>Citation #: <input name="citationNumber" value={citation.citationNumber} onChange={handleChange} /></label>
@@ -134,8 +135,8 @@ const AddEditCitations = () => {
         )}
 
         <div style={{ marginTop: '1rem' }}>
-          <button type="submit">Save</button>
-          <button type="button" onClick={() => navigate('/citations')}>Cancel</button>
+          <button className="save-button">Save</button>
+          <button className="cancel-button" onClick={() => navigate('/citations')}>Cancel</button>
         </div>
       </form>
     </div>
