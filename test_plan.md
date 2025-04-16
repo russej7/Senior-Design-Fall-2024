@@ -5,15 +5,15 @@
 My plan is to focus on the functionality and the user requirements. Majority of tests will be done when the project is built into a test environment. In the test environment we will run tests for each function that comes with the Citation and User entity (e.g. Add and Edit). These tests will be used to confirm that functionality between the front-end, back-end and database. There are a couple of tests that will be used to test certain logic that will be required by this program. For example, there will be methods that are used to check if a Citation is past due. These methods will be tested by unit testing with specific libraries. More tests will be added to this plan. 
 ________________________________________
 
-C1.1 Display Citations Table
-C1.2 Verify that the homepage displays all citations correctly.
-C1.3 Load the homepage and check if the table displays all citations fetched from the database.
-C1.4 None (fetch all citations from the database).
-C1.5 A table with all citations, including license plate, violation type, date, and actions (edit/print).
-C1.6 Normal
-C1.7 Blackbox
-C1.8 Functional
-C1.9 Integration
+- C1.1 Display Citations Table
+- C1.2 Verify that the homepage displays all citations correctly.
+- C1.3 Load the homepage and check if the table displays all citations fetched from the database.
+- C1.4 None (fetch all citations from the database).
+- C1.5 A table with all citations, including license plate, violation type, date, and actions (edit/print).
+- C1.6 Normal
+- C1.7 Blackbox
+- C1.8 Functional
+- C1.9 Integration
 ________________________________________
 
 C2.1 Add Citation
