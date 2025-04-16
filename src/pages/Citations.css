@@ -35,23 +35,6 @@
     flex-wrap: wrap;
   }
   
-  .search-bar {
-    flex-grow: 1;
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    max-width: 1500px;
-    margin: 0 auto;
-  }
-  
-  .search-bar input {
-    flex: 1;
-    padding: 12px 16px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    font-size: 1rem;
-  }
-  
 
   
   .search-button {

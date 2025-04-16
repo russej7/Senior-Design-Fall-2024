@@ -8,31 +8,63 @@ import { fetchCitations } from '@services/api';
 
 const Citations = () => {
   const [citations, setCitations] = useState([]);
-  const [searchQuery, setSearchQuery] = useState('');
+  //const [searchQuery, setSearchQuery] = useState('');
+  //const [filteredCitations, setFilteredCitations] = useState([]);
+
   const navigate = useNavigate();
 
   useEffect(() => {
+    const loadCitations = async () => {
+      try {
+        const data = await fetchCitations();
+        setCitations(data);
+      } catch (error) {
+        console.error('Failed to fetch citations:', error);
+      }
+    };
     loadCitations();  // Fetch citations when the component mounts
   }, []);
 
-  const loadCitations = async () => {
+  /*const loadCitations = async () => {
     try {
       const data = await fetchCitations();
       setCitations(data);
     } catch (error) {
       console.error('Failed to fetch citations:', error);
     }
+  };*/
+
+  /*const handleSearch = () => {
+    const query = searchQuery.toLowerCase().trim();
+
+    if (query === '') {
+      setFilteredCitations(citations);
+      return;
+    }
+  
+    const filtered = citations.filter((citation) => {
+      const plate = citation.licensePlateNumber?.toLowerCase() || '';
+      const owner = `${citation.ownerFirstName || ''} ${citation.ownerLastName || ''}`.toLowerCase();
+  
+      return plate.includes(query) || owner.includes(query);
+    });
+
+    setFilteredCitations(filtered);
+  
+
   };
 
-  const handleSearch = () => {
-    console.log('Searching for:', searchQuery);
-    // Implement search functionality, potentially modifying loadCitations to accept a query
-  };
-
+  const handleClear = () => {
+    setSearchQuery('');
+    setFilteredCitations(citations);
+  }
+*/
   const handleLogout = () => {
     localStorage.removeItem('token');
     navigate('/login');
   };
+
+
 
   return (
 
@@ -42,18 +74,12 @@ const Citations = () => {
 
       <h1 className="citations-header">Search Citations</h1>
       <div className="action-bar">
-        <div className="search-bar">
-          <input
-            type="text"
-            placeholder="Search by license plate, violation, etc..."
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-          />
-          <button className="search-button" onClick={handleSearch}>Search</button>
-          <button className="add-button" onClick={() => navigate('/citations/new')}>Add</button>
-        </div>
+      
       </div>
       <CitationTable citations={citations} />
+
+
+
     </div>
   );
 };

@@ -9,6 +9,7 @@ import User from '../models/UserModel.js';
 export const getAllCitations = async (req, res) => {
   try {
       const citations = await Citation.findAll({
+        order: [['citationDateTime', 'DESC' ]],
         include: [
             {
               model: Officer,
