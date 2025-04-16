@@ -19,7 +19,7 @@
 
 
 
-### 4\. **Adding a New Citation:**
+### 3\. **Adding a New Citation:**
 
 -   To add a citation click "Add".
 
