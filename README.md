@@ -6,6 +6,7 @@ Project Advisor: TBD
 
 Project Abstract: Create a web based application that can be used by a small local government to track parking citations. Users will be able to create, update, and print parking citations. Users will also be able to generate reports for citation data. 
 
+![image](https://github.com/user-attachments/assets/62af6ddf-37ba-40ba-96f7-b733a1d341fb)
 
 ## Table of Contents
 
