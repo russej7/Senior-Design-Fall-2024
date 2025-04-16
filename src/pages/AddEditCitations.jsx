@@ -111,7 +111,7 @@ const AddEditCitations = () => {
         {tab === 'owner' && (
           <div>
             <label>First Name: <input name="ownerFirstName" value={citation.ownerFirstName} onChange={handleChange} /></label>
-            <label>First Name: <input name="ownerMiddleName" value={citation.ownerMiddleName} onChange={handleChange} /></label>
+            <label>Middle Name: <input name="ownerMiddleName" value={citation.ownerMiddleName} onChange={handleChange} /></label>
             <label>Last Name: <input name="ownerLastName" value={citation.ownerLastName} onChange={handleChange} /></label>
             <label>Plate #: <input name="licensePlateNumber" value={citation.licensePlateNumber} onChange={handleChange} /></label>
             <label>Make: <select name="MakeID" value={citation.MakeID} onChange={handleChange}>

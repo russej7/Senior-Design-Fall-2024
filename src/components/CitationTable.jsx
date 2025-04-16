@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { useNavigate } from 'react-router-dom'; 
-import { fetchCitations } from '@services/api'; 
+import { fetchCitations } from '../services/api'; 
 import './CitationTable.css';
 import PrintCitation from '../components/PrintCitation.jsx';
 
