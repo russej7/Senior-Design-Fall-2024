@@ -2,7 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import citationRoutes from './routes/CitationRoutes.js';
 import dropdownRoutes from './routes/DropdownRoutes.js';
-import sequelize from './config/db.js'; // Assuming db.js is in config folder
+import sequelize from './config/db.js'; 
 
 const app = express();
 
@@ -12,7 +12,7 @@ app.use(express.json());
 
 // Routes
 app.use('/api/citations', citationRoutes);
-app.use('/api', dropdownRoutes); // Mounts under /api
+app.use('/api', dropdownRoutes); 
 
 // Database sync and server start
 sequelize.sync({ alter: true })
@@ -30,7 +30,7 @@ sequelize.sync({ alter: true })
 
 app.get('/test-db', async (req, res) => {
   try {
-      // Assuming sequelize is imported and configured properly
+    
       const [queryResult, metadata] = await sequelize.query('SELECT TOP 1 * FROM Citations');
       
       res.json({

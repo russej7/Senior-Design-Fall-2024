@@ -4,7 +4,7 @@ import {
   getCitationById,
   getAllCitations,
   updateCitation
-} from '../controllers/CitationsController.js'; // Note the extension
+} from '../controllers/CitationsController.js'; 
 
 
 

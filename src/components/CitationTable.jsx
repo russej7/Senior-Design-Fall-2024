@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react';
-import { useNavigate } from 'react-router-dom'; // Import useNavigate for navigation
-import { fetchCitations } from '@services/api'; // Ensure you have this function implemented in api.js
+import { useNavigate } from 'react-router-dom'; 
+import { fetchCitations } from '@services/api'; 
 import './CitationTable.css';
 import PrintCitation from '../components/PrintCitation.jsx';
 
@@ -23,9 +23,9 @@ const CitationsTable = () => {
       try {
         const data = await fetchCitations();
         setCitations(data);
-        setError(null); // Reset error state on successful data fetch
+        setError(null);
       } catch (error) {
-        setError('Failed to fetch citations'); // Set error message
+        setError('Failed to fetch citations'); 
         console.error('Failed to fetch citations:', error);
       } finally {
         setIsLoading(false); // Ensure loading is set to false after fetch

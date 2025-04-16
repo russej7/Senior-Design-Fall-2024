@@ -1,3 +1,5 @@
+// CitationModel.js
+
 import sequelize from '../config/db.js';
 import { DataTypes } from 'sequelize';
 import Officer from './OfficerModel.js';
