@@ -27,10 +27,13 @@ Project Abstract: Create a web based application that can be used by a small loc
 ### ABET Concerns Essay
 - [project_constraints.md](Essays/project_constraints.md)
 ### PPT Slideshow
-- [Project Presentation](https://mailuc-my.sharepoint.com/:p:/g/personal/russej7_mail_uc_edu/EdUto87qbsJDjODo-rll5YwBv5HZsxzS0MR_TEFViN1pXg)
+- [Fall Project Presentation](https://mailuc-my.sharepoint.com/:p:/g/personal/russej7_mail_uc_edu/EdUto87qbsJDjODo-rll5YwBv5HZsxzS0MR_TEFViN1pXg)
+- [Spring Project Presentation](https://mailuc-my.sharepoint.com/:p:/g/personal/russej7_mail_uc_edu/Eb8NmIwleZJBh0OV3d_ryrABkJSP9PaP0ZPVXKT6e2B8tQ?e=kBgCdq)
 ### Self-Assessment Essays
 - [individual_capstone.md](Essays/invidual_capstone.md)
 - [spring_self_assessment.md](Essays/spring_self_assessment.md)
+### Summary of Hours
+- This project so far has taken me about 90 hours. 
 ### Professional Biographies 
 - [professional_bio.md](Essays/professional_bio.md)
 ### Budget
