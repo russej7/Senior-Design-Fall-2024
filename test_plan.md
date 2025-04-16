@@ -1,8 +1,4 @@
-## **CS5002**
-
 ## **Test Plan**
-
-## **Jason Russell**
 
 **My plan is to focus on the functionality and the user requirements.
 Majority of tests will be done when the project is built into a test
