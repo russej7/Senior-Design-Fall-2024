@@ -116,3 +116,12 @@ team.
 
 -   The application is compatible with modern browsers like Google
     Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
+
+### **6. Is this site just for tracking citations?**
+
+-  The site will eventually include a different reporting mechanism that users can use to gather more data about the citations.
+   The application is also built to eventually handle other types of police department requests such as tow requests, house checks, dumpster requests, etc.
+
+### **7. Is there any other way I can interact with the table? 
+
+-  The table will soon support sorting by each column
