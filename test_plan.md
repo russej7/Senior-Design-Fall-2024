@@ -313,7 +313,7 @@ DB2.9 Integration
 | DB1 | Abnormal        | Whitebox          | Performance            | Integration      |
 | DB2 | Boundary        | Whitebox          | Performance            | Integration      |
 
-Test Results (Ongoing):
+**Test Results (Ongoing):**
 
 Throughout the building process, I tested manually that the Citations
 table displayed correctly. I tested adding and editing citations
