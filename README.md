@@ -19,7 +19,8 @@ Project Abstract: Create a web based application that can be used by a small loc
 - [D2](Design_Diagrams/Design_Diagram_D2.png)
 ### User Interface
 - [UI Screenshots](/UI_Screenshots)
-
+### Test Plan
+- [Test Plan](test_plan.md)
 ### Project Tasks and Timeline
 - [tasklist.md](Essays/tasklist.md)
 - [milestones.md](Essays/milestones.md)
