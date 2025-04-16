@@ -1,8 +1,8 @@
-**CS5002**
+## **CS5002**
 
-**Test Plan**
+## **Test Plan**
 
-**Jason Russell**
+## **Jason Russell**
 
 **My plan is to focus on the functionality and the user requirements.
 Majority of tests will be done when the project is built into a test
@@ -35,6 +35,8 @@ C1.8 Functional
 
 C1.9 Integration
 
+----------------------------------------------------------------------
+
 C2.1 Add Citation
 
 C2.2 Verify that a new citation can be added successfully to the
@@ -58,6 +60,8 @@ C2.8 Functional
 
 C2.9 Integration
 
+----------------------------------------------------------------------
+
 C3.1 Edit Citation
 
 C3.2 Verify that a citation can be edited successfully.
@@ -77,6 +81,8 @@ C3.7 Blackbox
 C3.8 Functional
 
 C3.9 Integration
+
+----------------------------------------------------------------------
 
 C4.1 Print Citation
 
@@ -99,6 +105,8 @@ C4.8 Functional
 
 C4.9 Integration
 
+----------------------------------------------------------------------
+
 C5.1 Calculate Past Due Citation
 
 C5.2 Verify that citation is marked past due if it is 7 or more days old
@@ -117,6 +125,8 @@ C5.7 Whitebox
 C5.8 Functional
 
 C5.9 Unit
+
+----------------------------------------------------------------------
 
 C6.1 Invalid Citation Data
 
@@ -139,6 +149,8 @@ C6.8 Functional
 
 C6.9 Integration
 
+----------------------------------------------------------------------
+
 U1.1 Add User
 
 U1.2 Verify that a new user can be added successfully.
@@ -159,6 +171,8 @@ U1.8 Functional
 
 U1.9 Integration
 
+----------------------------------------------------------------------
+
 U2.1 Edit User
 
 U2.2 Verify that a user\'s details can be edited successfully.
@@ -177,6 +191,8 @@ U2.7 Blackbox
 U2.8 Functional
 
 U2.9 Integration
+
+----------------------------------------------------------------------
 
 U3.1 Delete User
 
@@ -197,6 +213,8 @@ U3.8 Functional
 
 U3.9 Integration
 
+----------------------------------------------------------------------
+
 U4.1 User Authentication 1
 
 U4.2 Verify that only authenticated users can access the system.
@@ -213,7 +231,9 @@ U4.7 Blackbox
 
 U4.8 Functional
 
-U4.8 Integration
+U4.9 Integration
+
+----------------------------------------------------------------------
 
 U5.1 User Authentication 2
 
@@ -235,6 +255,8 @@ U5.8 Functional
 
 U5.9 Integration
 
+----------------------------------------------------------------------
+
 DB1.1 Database Connection Failure
 
 DB1.2 Verify that the system handles database connection failures
@@ -255,6 +277,8 @@ DB1.8 Performance
 
 DB1.9 Integration
 
+----------------------------------------------------------------------
+
 DB2.1 Large Dataset Performance
 
 DB2.2 Verify that the system performs well with a large number of
@@ -274,6 +298,8 @@ DB2.7 Whitebox
 DB2.8 Performance
 
 DB2.9 Integration
+
+----------------------------------------------------------------------
 
 |     | Normal/Abnormal | Blackbox/Whitebox | Functional/Performance | Unit/Integration |
 |-----|-----------------|-------------------|------------------------|------------------|
